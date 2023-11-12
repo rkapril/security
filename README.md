@@ -2,7 +2,7 @@
 ## NodeJS
 1. Encryption (mongoose-encryption)
 2. Hashing (md5)
-3. Salting
+3. Salting + Hashing (bcrypt)
 
 ## Useful links
 1. https://cryptii.com/
