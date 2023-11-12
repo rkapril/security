@@ -4,6 +4,7 @@
 2. Hashing (md5)
 3. Salting + Hashing (bcryptjs)
 4. Passport
+5. OAuth
 
 ## Useful links
 1. https://cryptii.com/
